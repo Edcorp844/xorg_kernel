@@ -15,13 +15,13 @@ brew install qemu build-essential gcc-multilib
   
 ```sh
 # Ubuntu Or Debian:
-sudo apt install qemu build-essential gcc-multilib 
+sudo apt-get install qemu-system build-essential gcc-multilib 
 
 #Fedora:
-sudo dnf install qemu build-essential gcc-multilib 
+sudo dnf install qemu-system build-essential gcc-multilib 
 
 # Arch & Arch-based:
-paru -S qemu build-essential gcc-multilib 
+paru -S qemu-system build-essential gcc-multilib 
 ```
 ### NOTE: to install all the required packages on Arch, you need an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers).
 
