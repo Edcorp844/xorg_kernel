@@ -1,6 +1,6 @@
 # xorg_kernel
 This is an open source hybrid kernel that was created by [Frost Edson](https://edcorp844.github.io/FrostEdson) under the bachelors degree research in kampala International university in Uganda in 2023. It started as [xcorp kernel](https://github.com/Edcorp844/xcorp_kernel.git) which letter was integrated with the [MIT xv6](https://github.com/mit-pdos/xv6-public.git) to form the xorg kernel which is used by the Xos.
-It remains open source unitl further notice..Feel free to use it for research work and study purposes.
+It remains open source until further notice..Feel free to use it for research work and study purposes.
 
 ## Install depandencies
 * MacOs
